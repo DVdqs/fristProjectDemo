@@ -6,3 +6,5 @@
 
 远程控制仓库
 克隆项目（从Github拉取项目）：git clone (项目HTTPS地址)  如：https://github.com/DVdqs/fristProjectDemo.git
+提交到线上仓库：git push
+从仓库拉取线上的最新版本：git pull
