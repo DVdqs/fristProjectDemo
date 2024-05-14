@@ -1,0 +1,8 @@
+工作区——>暂存区	：git add .（单个文件：单个文件名，.是所有修改的文件）
+暂存区——>仓库	：git commit -m "注释"
+查看进度		：git status（文件红色未添加，文件绿色已添加未提交）
+查看提交日志	：git log
+回退操作		：git reset --hard commitID
+
+远程控制仓库
+克隆项目（从Github拉取项目）：git clone (项目HTTPS地址)  如：https://github.com/DVdqs/fristProjectDemo.git
